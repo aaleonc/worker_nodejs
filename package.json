@@ -1,0 +1,19 @@
+{
+  "name": "worker_nodejs",
+  "version": "1.0.0",
+  "description": "Manager Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaleonc/worker_nodejs.git"
+  },
+  "author": "Alejandro León",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaleonc/worker_nodejs/issues"
+  },
+  "homepage": "https://github.com/aaleonc/worker_nodejs#readme"
+}
